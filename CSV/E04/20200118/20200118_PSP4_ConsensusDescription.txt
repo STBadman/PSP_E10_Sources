@@ -1,0 +1,5 @@
+TEST CONSENSUS PREDICTION 20200118
+Consenus target is tracking the northmost edge of the southern polar coronal
+hole as it rotates from the East to West limb
+Note this is not a real consensus prediction across models but instead reproduces the data from 
+UCB_psp_e4_20200118a_adaptGONG20200118rss2.5.csv which is also plotted in figs 1 and 2.
