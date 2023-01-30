@@ -3,3 +3,4 @@ __pycache__
 *.fts.gz
 *.fits
 *.png
+psp_data
