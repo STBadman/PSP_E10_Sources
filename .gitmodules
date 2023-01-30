@@ -1,0 +1,6 @@
+[submodule "kent_distribution"]
+	path = kent_distribution
+	url = git@github.com:STBadman/kent_distribution.git
+[submodule "solarsynoptic"]
+	path = solarsynoptic
+	url = https://github.com/dstansby/solarsynoptic.git
