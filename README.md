@@ -1,4 +1,4 @@
-# Python repository to reproduce figures in  Badman+ "Prediction and Verification of Parker Solar Probe Solar Wind Sources at 13.3 $𝑅_\odot$"
+# Python repository to reproduce figures in  Badman+ "Prediction and Verification of Parker Solar Probe Solar Wind Sources at 13.3 $𝑅_\odot$" - submitted to JGR Space Physics 2023/1/31
 
 This repository contains :
 
