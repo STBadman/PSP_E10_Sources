@@ -13,3 +13,5 @@ This repository contains :
 * `SourcesPaperFigures.ipynb` - a jupyter notebook which runs through each figure, downloading the data it needs along the way. "Fig#.png" files will appear in the directory.
 * `helpers.py` - useful python utility functions used in the main notebook
 * `requirements.txt` - a listing of the packages and versions for which this repository has been tested. You can install them all at once with `pip install -r requirements.txt`. __Windows Users__ : You may need to install the v2.0.0 pre-release of streamtracer : `pip install streamtracer --pre` (See https://github.com/dstansby/streamtracer/issues/61)
+
+Thank you to @jlverniero and @kpaulson for testing this out!
